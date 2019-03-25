@@ -34,7 +34,7 @@ int main(){
 				cout << "The old man tells you not to take the right path up the road, do you [0] Listen to  his advice or [1] ignore his rambling:\n " << endl;
 				cin >> userInput;		
 			
-				//Depth 2	
+				//Depth  2	
 				if (userInput == 0){
 					cout << "You take the right path and run into a bear! do you [0] throw your food at the bear or [1] Throw your gold at the bear:  \n " << endl;
 					cin >> userInput;		
